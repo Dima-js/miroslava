@@ -285,6 +285,9 @@ nav ul{
     .section1 .section1-text {
         width: 40%;
     }
+    .wrap_cart-detail {
+        max-height: 690px;
+    }
 }
 
 
@@ -1252,6 +1255,10 @@ nav ul{
     margin-bottom: 7.5px;
     margin-top: 7.5px;
     opacity: 0.5;
+    cursor: pointer;
+}
+.slick-active.slick-slide.slick-current img {
+    opacity: 1!important;
 }
 .slider-nav .slick-current .slick-slide img{
     opacity: 1!important;
