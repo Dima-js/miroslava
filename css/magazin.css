@@ -17,7 +17,7 @@
     width: 100%;
     margin-bottom: 30px;
     max-width: 552px;
-    max-height: 360px;
+    height: 360px;
 }
 .wrap_magazin-article h3{
     color: #666661;
@@ -468,5 +468,107 @@
 @media (max-height: 350px) {
     .wrapper__header-menu {
         margin-top: 15px;
+    }
+}
+
+/* with img */
+@media (max-width: 1640px) {
+    .wrap_magazin-article img {
+        height: 350px;
+    }
+}
+@media (max-width: 1450px) {
+    .wrap_magazin-article img {
+        height: 330px;
+    }
+}
+@media (max-width: 1366px) {
+    .wrap_magazin-article img {
+        height: 280px;
+    }
+}
+@media (max-width: 1240px) {
+    .wrap_magazin-article img {
+        height: 255px;
+    }
+}
+@media (max-width: 1140px) {
+    .wrap_magazin-article img {
+        height: 235px;
+    }
+}
+@media (max-width: 1024px) {
+    .wrap_magazin-article img {
+        height: 210px;
+    }
+}
+@media (max-width: 924px) {
+    .wrap_magazin-article img {
+        height: 215px;
+    }
+}
+@media (max-width: 890px) {
+    .wrap_magazin-article img {
+        height: 195px;
+    }
+}
+@media (max-width: 850px) {
+    .wrap_magazin-article img {
+        height: 245px;
+    }
+}
+@media (max-width: 768px) {
+    .wrap_magazin-article img {
+        height: 220px;
+    }
+}
+@media (max-width: 768px) {
+    .wrap_magazin-article img {
+        height: 220px;
+    }
+}
+@media (max-width: 720px) {
+    .wrap_magazin-article img {
+        height: 200px;
+    }
+}
+@media (max-width: 630px) {
+    .wrap_magazin-article img {
+        height: 175px;
+    }
+}
+@media (max-width: 540px) {
+    .wrap_magazin-article img {
+        height: 155px;
+    }
+}
+@media (max-width: 480px) {
+    .wrap_magazin-article img {
+        height: 135px;
+    }
+}
+@media (max-width: 450px){
+    .wrap_magazin-article img {
+        height: 240px;
+    }
+}
+@media (max-width: 410px){
+    .wrap_magazin-article img {
+        height: 215px;
+    }
+}
+@media (max-width: 375px){
+    .wrap_magazin-article img {
+        height: 190px;
+    }
+}
+@media (max-width: 345px){
+    .wrap_magazin-article img {
+        height: 175px;
+    }
+}
+@media (max-width: 320px){
+    .wrap_magazin-article img {
+        height: 160px;
     }
 }
